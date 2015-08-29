@@ -1,2 +1,3 @@
+在src\main\resource\ApplicationContext.xml里修改数据库配置信息
 mvn compile
 mvn exec:java -Dexec.mainClass="com.hand.handtest.App"
